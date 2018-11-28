@@ -45,7 +45,7 @@
 </head>
 <body>
 <input type="submit" name="button" value="测试" onClick="getAjax()" />
-1221<div id="showdiv">
+<div id="showdiv">
 
 </div>
 <table id="table">
